@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on [my website](https://jnilsson.de)
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **johannes@jnilsson.de**
